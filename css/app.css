@@ -44,7 +44,7 @@ h1 {
 }
 
 .top-cont {
-	background-image: url("img/enjoy_coffee.jpg");
+	background-image: url(/img/enjoy_coffee.jpg);
 	background-repeat: no-repeat;
 	height: 800px;
 	opacity: 0.9;
